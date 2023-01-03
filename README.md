@@ -2,6 +2,14 @@
 
 [![MasterHead](https://cdn.discordapp.com/attachments/1034135282154487818/1042473842125316116/2000_600px_1.gif)](https://discord.gg/3w5EJbV9Jq)
 <h1 align="center">Hi 👋, I'm xXNozZ4RrxX</h1>
+
+<h2 align="center">Discord Profile</h2><br>
+  <p align="center">
+    <a href="https://discord.gg/acxnq8Tzm2">
+        <img title="Nullbyte server discord" alt="xXNozZ4RrxX's discord" src="https://discord.c99.nl/widget/theme-3/1020691156763410532.png"/>
+    </a>
+</p>
+
 <h3 align="center">Im FiveM and RedM Developer also i can build windows Applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xXxNozz4rrxXx&label=Profile%20views&color=0e75b6&style=flat" alt="xXxNozz4rrxXx" /> </p>
@@ -46,3 +54,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xXxNozz4rrxXx&" alt="xXxNozz4rrxXx" /></p>
 
+<a href = "https://github.com/Anant-mishra1729?tab=repositories"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
