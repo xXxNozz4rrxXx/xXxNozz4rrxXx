@@ -9,7 +9,10 @@
         <img title="Nullbyte server discord" alt="xXNozZ4RrxX's discord" src="https://discord.c99.nl/widget/theme-3/1020691156763410532.png"/>
     </a>
 </p>
-<h2 align="center">Im FiveM and RedM Developer also i can build windows Applications</h2><br>
+
+
+<h3 align="center">Im FiveM and RedM Developer also i can build windows Applications</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xXxNozz4rrxXx&label=Profile%20views&color=0e75b6&style=flat" alt="xXxNozz4rrxXx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xXxNozz4rrxXx" alt="xXxNozz4rrxXx" /></a> </p>
