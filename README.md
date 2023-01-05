@@ -3,6 +3,7 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/1034135282154487818/1042473842125316116/2000_600px_1.gif)](https://discord.gg/3w5EJbV9Jq)
 <h1 align="center">Hi 👋, I'm xXNozZ4RrxX</h1>
 
+
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/acxnq8Tzm2">
