@@ -27,7 +27,7 @@
 
 - 👯 I’m looking to collaborate on RedM/Fivem Scripts [Nullbyte Services](https://discord.gg/3w5EJbV9Jq)
 
-- 🤝 I can help to develop your RedM/FiveM Server as do with Appaloosa RolePlay No1 RedM Server in Greece [Nozz4rr Services](Link : Coming Soon)
+- 🤝 I can help to develop your RedM/FiveM Server [Nozz4rr Services](Link : Coming Soon)
 
 - 👨‍💻 All of my projects are available at [Link : Coming Soon](Link : Coming Soon)
 
